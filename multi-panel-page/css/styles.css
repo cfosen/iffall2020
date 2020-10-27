@@ -1,0 +1,92 @@
+body{font-family: 'Archivo Narrow', sans-serif;}
+
+header{text-align: center;
+background-image: url("https://lazaris01.worldsecuresystems.com/Media/img/amethyst-banner.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 141%;
+    color:whitesmoke;
+    padding-top: 99px;
+    height: 381px}
+
+h1{font-size: 80px;}
+
+h2{margin-top: -57px;
+    font-size: 30px;}
+
+.one{background-color: rgb(41, 56, 88);
+    padding-bottom: 34px;
+    margin-bottom: -34px;
+    color: whitesmoke;}
+
+.column-container{width: 960px;
+    margin: auto;
+    padding-bottom: 1px;}
+
+h3{text-align: center;
+    font-size: 40px;}
+
+.column-container h3{
+    margin-top: 10px;
+    margin-bottom: 33px;}
+
+section{padding-top: 30px;}
+
+.compressed-image{float:right;
+                width: 400px;
+                height: 300px;
+                object-fit: cover;
+            padding-left: 42px;
+            padding-bottom: 40px}
+
+p{font-size:17.8px;
+    line-height: 141%;}
+
+.two{background-color: rgb(153, 185, 255);
+    margin-top: 34px;
+    padding-bottom: 47px;}
+
+img.column{width:200px;
+            height: 150px;
+            object-fit: cover;
+            float:left;
+            padding-right: 12px;}
+
+ul.grid{display: grid;
+        grid-template-columns: 1fr 1fr;
+        list-style-type: none;
+        padding-left: 0px;
+        grid-row-gap: 24px;
+        }
+
+.column-text{padding-top: 0px;}
+
+h4{font-size: 20px;
+    margin: 0px;
+    }
+
+.column-text p{margin-top: 8px;
+                margin-right: 30px;
+                margin-bottom: 8px;}
+
+.three{background-color: rgb(219, 230, 255);
+margin-top:0px;}
+
+div.centered{text-align: center;
+        margin-top:30px;
+        margin: auto;
+        width: 722px;
+        padding-bottom: 74px;}
+
+.centered h3{margin-top: 10px;
+            margin-bottom: 33px;}
+
+.centered p{font-size: 26px}
+
+h5{margin-top: 11px;
+    font-size:17px;
+    line-height: 141%;
+    margin-bottom: ;}
+
+.four{background-color: rgb(41, 56, 88);
+    color: whitesmoke;}
